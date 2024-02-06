@@ -1,4 +1,7 @@
+
 text = input('enter text: ')
+
+text = "" 
 
 result = text.find("the")
 
